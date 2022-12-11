@@ -79,4 +79,25 @@
 * Spatial-ID: a cell typing method for spatially resolved transcriptomics via transfer learning and spatial embedding | [Nature Communications][https://www.nature.com/articles/s41467-022-35288-0](https://www.nature.com/articles/s41467-022-35288-0)
 * Graph-based autoencoder integrates spatial transcriptomics with chromatin images and identifies joint biomarkers for Alzheimer’s disease | [Nature Communications](https://www.nature.com/articles/s41467-022-35233-1)
 * pGlycoQuant with a deep residual network for quantitative glycoproteomics at intact glycopeptide level | [Nature Communications](https://www.nature.com/articles/s41467-022-35172-x)
-* 
+* ProtGPT2 is a deep unsupervised language model for protein design | [Nature Communications](https://www.nature.com/articles/s41467-022-32007-7)
+* iDNA-ABF: multi-scale deep biological language learning model for the interpretable prediction of DNA methylations | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02780-1)
+* KAGE: fast alignment-free graph-based genotyping of SNPs and short indels | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02771-2)
+* BASS: multi-scale and multi-sample analysis enables accurate cell type clustering and spatial domain detection in spatial transcriptomic studies | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02734-7)
+* A benchmark study of deep learning-based multi-omics data fusion methods for cancer | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02739-2)
+* BindVAE: Dirichlet variational autoencoders for de novo motif discovery from accessible chromatin | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02723-w)
+* Integrating temporal single-cell gene expression modalities for trajectory inference and disease prediction | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02749-0)
+* Bi-order multimodal integration of single-cell data  | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02679-x)
+* Identifying common transcriptome signatures of cancer by interpreting deep learning models | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02681-3)
+* SeqScreen: accurate and sensitive functional screening of pathogenic sequences via ensemble learning | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02695-x)
+* scDART: integrating unmatched scRNA-seq and scATAC-seq data and learning cross-modality relationship simultaneously | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02706-x)
+* scSTEM: clustering pseudotime ordered single-cell data | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02716-9)
+* A deep generative model for multi-view profiling of single-cell RNA-seq and ATAC-seq data | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02595-6)
+* Universal prediction of cell-cycle position using transfer learning | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02581-y)
+* Benchmarking clustering algorithms on estimating the number of cell types from single-cell RNA-sequencing data | [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02622-0)
+
+
+* Learning the protein language: Evolution, structure, and function | [Cell systems](https://www.sciencedirect.com/science/article/pii/S2405471221002039)
+
+
+## Meeting
+* MSA Transformer | [PMLR](http://proceedings.mlr.press/v139/rao21a.html)
