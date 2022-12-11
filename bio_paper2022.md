@@ -76,4 +76,7 @@
 * Hierarchical deep reinforcement learning reveals a modular mechanism of cell movement | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-021-00431-x)
 * Interpreting neural networks for biological sequences by learning stochastic masks | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-021-00428-6)
 * Geometry-enhanced molecular representation learning for property prediction | [Nature Machine Intelligence](https://www.nature.com/articles/s42256-021-00438-4)
+* Spatial-ID: a cell typing method for spatially resolved transcriptomics via transfer learning and spatial embedding | [Nature Communications][https://www.nature.com/articles/s41467-022-35288-0](https://www.nature.com/articles/s41467-022-35288-0)
+* Graph-based autoencoder integrates spatial transcriptomics with chromatin images and identifies joint biomarkers for Alzheimer’s disease | [Nature Communications](https://www.nature.com/articles/s41467-022-35233-1)
+* pGlycoQuant with a deep residual network for quantitative glycoproteomics at intact glycopeptide level | [Nature Communications](https://www.nature.com/articles/s41467-022-35172-x)
 * 
