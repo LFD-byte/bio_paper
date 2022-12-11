@@ -1,4 +1,5 @@
 # bio_paper 2022
+## Journal
 * Rationalized deep learning super-resolution microscopy for sustained live imaging of rapid subcellular processes | [Nature Biotechnology](https://www.nature.com/articles/s41587-022-01471-3)
 * Single-sequence protein structure prediction using a language model and deep learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-022-01432-w)
 * Real-time denoising enables high-sensitivity fluorescence time-lapse imaging beyond the shot-noise limit | [Nature Biotechnology](https://www.nature.com/articles/s41587-022-01450-8)
