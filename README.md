@@ -1,7 +1,7 @@
 # bio_paper
 papers of the bioinformatics.
 
-| Journel/Meeting | Grade |
+| Journel | Grade |
 | ---- | ---- |
 | Nature Biotechnology | SCI 1 |
 | Nature Methods | SCI 1 |
@@ -11,3 +11,7 @@ papers of the bioinformatics.
 | Nature Medicine | SCI 1 |
 | Nature Communications | SCI 1 |
 | Proceedings of the National Academy of Sciences of the United States of America | SCI 1 |
+
+| Meeting | Grade |
+| ---- | ---- |
+| Bioinformatics | CCF B |
