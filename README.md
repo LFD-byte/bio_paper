@@ -20,7 +20,7 @@ papers of the bioinformatics.
 * Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01092-2)
 * Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01094-0)
 * Super-resolved spatial transcriptomics by deep data fusion | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01075-3)
-* *Mapping single-cell data to reference atlases by transfer learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01001-7)
+* Mapping single-cell data to reference atlases by transfer learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01001-7)
 
 ## 2021
 * Prediction of drug efficacy from transcriptional profiles with deep learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-00946-z)
