@@ -10,3 +10,4 @@ papers of the bioinformatics.
 | Nature Machine Intelligence | SCI 1 |
 | Nature Medicine | SCI 1 |
 | Nature Communications | SCI 1 |
+| Proceedings of the National Academy of Sciences of the United States of America | SCI 1 |
