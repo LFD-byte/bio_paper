@@ -17,8 +17,15 @@ papers of the bioinformatics.
 * Identification of antimicrobial peptides from the human gut microbiome using deep learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-022-01226-0)
 * Multi-omics single-cell data integration and regulatory inference with graph-linked embedding | [Nature Biotechnology](https://www.nature.com/articles/s41587-022-01284-4)
 * Spatially informed cell-type deconvolution for spatial transcriptomics | [Nature Biotechnology](https://www.nature.com/articles/s41587-022-01273-7)
-## 2021
+* Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01092-2)
+* Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01094-0)
+* Super-resolved spatial transcriptomics by deep data fusion | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01075-3)
+* *Mapping single-cell data to reference atlases by transfer learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01001-7)
 
+## 2021
+* Prediction of drug efficacy from transcriptional profiles with deep learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-00946-z)
+* Improved metagenome binning and assembly using deep variational autoencoders | [Nature Biotechnology](https://www.nature.com/articles/s41587-020-00777-4)
+* Deep diversification of an AAV capsid protein by machine learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-020-00793-4)
 ## 2019
 
 ## 2018
