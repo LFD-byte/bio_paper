@@ -21,7 +21,12 @@ papers of the bioinformatics.
 * Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01094-0)
 * Super-resolved spatial transcriptomics by deep data fusion | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01075-3)
 * Mapping single-cell data to reference atlases by transfer learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01001-7)
-
+* A large-scale neural network training framework for generalized estimation of single-trial population dynamics | [Nature Methods](https://www.nature.com/articles/s41592-022-01675-0)
+* Detection of m6A from direct RNA sequencing using a multiple instance learning framework | [Nature Methods](https://www.nature.com/articles/s41592-022-01666-1)
+* AlphaFill: enriching AlphaFold models with ligands and cofactors | [Nature Methods](https://www.nature.com/articles/s41592-022-01685-y)
+* Unsupervised discovery of tissue architecture in multiplexed imaging | [Nature Methods](https://www.nature.com/articles/s41592-022-01657-2)
+* Incorporating the image formation process into deep learning improves network performance | [Nature Methods](https://www.nature.com/articles/s41592-022-01652-7)
+* Cellpose 2.0: how to train your own model | [Nature Methods](https://www.nature.com/articles/s41592-022-01663-4)
 ## 2021
 * Prediction of drug efficacy from transcriptional profiles with deep learning | [Nature Biotechnology](https://www.nature.com/articles/s41587-021-00946-z)
 * Improved metagenome binning and assembly using deep variational autoencoders | [Nature Biotechnology](https://www.nature.com/articles/s41587-020-00777-4)
