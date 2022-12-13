@@ -101,6 +101,3 @@
 
 
 ## Meeting
-* MSA Transformer | [PMLR](http://proceedings.mlr.press/v139/rao21a.html)
-* Co-evolution Transformer for Protein Contact Prediction | [NeurIPS Proceedings](https://proceedings.neurips.cc/paper/2021/hash/770f8e448d07586afbf77bb59f698587-Abstract.html)
-
