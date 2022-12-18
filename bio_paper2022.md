@@ -98,6 +98,8 @@
 
 
 * Learning the protein language: Evolution, structure, and function | [Cell systems](https://www.sciencedirect.com/science/article/pii/S2405471221002039)
-
+* Ontology-aware deep learning enables ultrafast and interpretable source tracking among sub-million microbial community samples from hundreds of niches | [Genome Medicine](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01047-5)
+* 
 
 ## Meeting
+
