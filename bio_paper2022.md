@@ -99,6 +99,19 @@
 
 
 * Ontology-aware deep learning enables ultrafast and interpretable source tracking among sub-million microbial community samples from hundreds of niches | [Genome Medicine](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01047-5)
-* 
-* Learning the protein language: Evolution, structure, and function | [Cell systems](https://www.sciencedirect.com/science/article/pii/S2405471221002039)
+* An introduction to spatial transcriptomics for biomedical research | [Genome Medicine](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01075-1)
+* Diagnostic Evidence GAuge of Single cells (DEGAS): a flexible deep transfer learning framework for prioritizing cells in relation to disease | [Genome Medicine](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01012-2)
+* DrABC: deep learning accurately predicts germline pathogenic mutation status in breast cancer patients based on phenotype data | [Genome Medicine](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01027-9)
+* Domain-adaptive neural networks improve cross-species prediction of transcription factor binding | [Genome Research](https://genome.cshlp.org/content/32/3/512.full)
+* Identification of phenotype-specific networks from paired gene expression–cell shape imaging data | [Genome Research](https://genome.cshlp.org/content/32/4/750.full)
+* Predicting genotype-specific gene regulatory networks | [Genome Research](https://genome.cshlp.org/content/32/3/524.full)
+* A model-based constrained deep learning clustering approach for spatially resolved single-cell data | [Genome Research](https://genome.cshlp.org/content/32/10/1906.full)
+* Learning probabilistic protein–DNA recognition codes from DNA-binding specificities using structural mappings | [Genome Research](https://genome.cshlp.org/content/32/9/1776.full)
+* Unsupervised cell functional annotation for single-cell RNA-seq | [Genome Research](https://genome.cshlp.org/content/32/9/1765.full)
+* Haplotype and population structure inference using neural networks in whole-genome sequencing data | [Genome Research](https://genome.cshlp.org/content/32/8/1542.full)
+* Dynamic regulatory module networks for inference of cell type–specific transcriptional networks | [Genome Research](https://genome.cshlp.org/content/32/7/1367.full)
+* Chromatin interaction–aware gene regulatory modeling with graph attention networks | [Genome Research](https://genome.cshlp.org/content/32/5/930.full)
+* Polishing copy number variant calls on exome sequencing data via deep learning | [Genome Research](https://genome.cshlp.org/content/32/6/1170.full)
+
 ## Meeting
+
