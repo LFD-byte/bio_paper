@@ -114,4 +114,17 @@
 * Polishing copy number variant calls on exome sequencing data via deep learning | [Genome Research](https://genome.cshlp.org/content/32/6/1170.full)
 
 ## Meeting
-
+* Hierarchical Bayesian models of transcriptional and translational regulation processes with delays | [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/1/187/6358716?redirectedFrom=fulltext&login=false)
+* Multi-omics data integration by generative adversarial network | [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/1/179/6355579?redirectedFrom=fulltext&login=false)
+* Learning sparse log-ratios for high-throughput sequencing data | [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/1/157/6366546?login=false)
+* Structure-aware protein–protein interaction site prediction using deep graph convolutional network | [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/1/125/6366544?redirectedFrom=fulltext&login=false)
+* DisoLipPred: accurate prediction of disordered lipid-binding residues in protein sequences with deep recurrent networks and transfer learning | [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/1/115/6364892)
+* A de novo protein structure prediction by iterative partition sampling, topology adjustment and residue-level distance deviation optimization | [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/1/99/6359814?redirectedFrom=fulltext&login=false)
+* Precise estimation of residue relative solvent accessible area from Cα atom distance matrix using a deep learning method | [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/1/94/6358714?redirectedFrom=fulltext&login=false)
+* De novo protein design by an energy function based on series expansion in distance and orientation dependence | [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/1/86/6354351?redirectedFrom=fulltext&login=false)
+* DAMA: a method for computing multiple alignments of protein structures using local structure descriptors | [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/1/80/6352722?login=false)
+* ProteinEvolverABC: coestimation of recombination and substitution rates in protein sequences by approximate Bayesian computation | [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/1/58/6358715)
+* BitQT: a graph-based approach to the quality threshold clustering of molecular dynamics | [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/1/73/6353027?redirectedFrom=fulltext)
+* DeepAc4C: a convolutional neural network model with hybrid features composed of physicochemical patterns and distributed representation information for identification of N4-acetylcytidine in mRNA | [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/1/52/6357036?redirectedFrom=fulltext&login=false)
+* Improved datasets and evaluation methods for the automatic prediction of DNA-binding proteins | [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/1/44/6355576?login=false)
+* Alpha-XIC: a deep neural network for scoring the coelution of peak groups improves peptide identification by data-independent acquisition mass spectrometry | [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/1/38/6353024?redirectedFrom=fulltext&login=false)
