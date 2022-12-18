@@ -10,3 +10,4 @@
 * Similarity-driven multi-view embeddings from high-dimensional biomedical data | [Nature Computational Science](https://www.nature.com/articles/s43588-021-00029-8)
 * MSA Transformer | [ICML](http://proceedings.mlr.press/v139/rao21a.html)
 * Co-evolution Transformer for Protein Contact Prediction | [NeurIPS Proceedings](https://proceedings.neurips.cc/paper/2021/hash/770f8e448d07586afbf77bb59f698587-Abstract.html)
+* Learning the protein language: Evolution, structure, and function | [Cell systems](https://www.sciencedirect.com/science/article/pii/S2405471221002039)
